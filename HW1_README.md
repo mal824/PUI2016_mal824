@@ -1,4 +1,4 @@
-# HW1  Assignment 
+# HW1  Assignment 2
 
 This is how I created the environmental variable: 
 
