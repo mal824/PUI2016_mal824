@@ -1,0 +1,1 @@
+### For this homework, I used data from NYC to visually illustrate the relationship between Building Floor Area and Green House Gas Emissions using a Scatterplot. The final figure is illustrated at the end of the notebook. 
