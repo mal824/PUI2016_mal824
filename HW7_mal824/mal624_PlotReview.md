@@ -12,7 +12,7 @@ The plot is easy to read. Both axes are clearly labeled, with an explanation bel
 ###<b>Asthetic:</b>
 <i>Beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?</i>
 
-As a scatter plot, the color chosen for the points is acceptable. The focus is on the clusters and outliers, as opposed to a comparison between different data elements. The color selected, as well as the decision to use a scatter plot to represent the data, serve their purpose well. 
+As a scatter plot, the color chosen for the points is acceptable. The focus is on the clusters and outliers, as opposed to a comparison between different sets of data. The color selected, as well as the decision to use a scatter plot to represent the data, serves the data's purpose well. 
 
 ###<b>Honesty:</b>
 <i>Is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?</i>
